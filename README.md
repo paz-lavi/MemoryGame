@@ -28,7 +28,7 @@ you may not use this file except in compliance with the License.
 
 You may obtain a copy of the License at
 
-https://github.com/paz-lavi/PDSA/tree/main/LICENSE
+https://github.com/paz-lavi/MemoryGame/blob/main/LICENSE
 
 Unless required by applicable law or agreed to in writing, software
 
