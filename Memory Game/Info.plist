@@ -20,6 +20,8 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>MKDirectionsApplicationSupportedModes</key>
+	<array/>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
@@ -62,5 +64,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>Privacy - Locations Always and When In Use Usage Description</key>
+	<string>This app save high scores locations</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This app save high scores locations</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app save high scores locations</string>
 </dict>
 </plist>
